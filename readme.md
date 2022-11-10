@@ -2,7 +2,7 @@
 
 chat-uikit-uniapp 是基于腾讯云 IM SDK 的一款 uniapp UI 组件库，它提供了一些通用的 UI 组件，包含会话、聊天、群组等功能。基于 UI 组件您可以像搭积木一样快速搭建起自己的业务逻辑。
 chat-uikit-uniapp 界面效果如下图所示：
-![](https://qcloudimg.tencent-cloud.cn/raw/f4c8bb9726442e9e1f7bfaf1e6f4e281.png)
+![](https://user-images.githubusercontent.com/37072197/201026468-96ec361a-4ba4-4535-842a-79e31d894834.png)
 
 ## chat-uikit-uniapp 支持平台
 
@@ -241,6 +241,7 @@ userID 信息，可通过 [即时通信 IM 控制台](https://console.cloud.tenc
 ![create user](https://user-images.githubusercontent.com/57951148/192585588-c5300d12-6bb5-45a4-831b-f7d733573840.png)
 
 #### 步骤 5：运行效果
+
 ![](https://qcloudimg.tencent-cloud.cn/raw/06ccb31cb4dd0ae0d93a15794f63bb81.png)
 
 ### 技术咨询
@@ -276,7 +277,5 @@ UserSig 签发方式是将 UserSig 的计算代码集成到您的服务端，并
 <img src="https://qcloudimg.tencent-cloud.cn/raw/ad80a950f32f702fb8ef20ddcc7308a9.png" width="600"/>
 
 #### 4. 运行在小程序端出现异常报错
- 可能和微信开发者工具版本有关，请使用最新的开发者工具，以及确认稳定的调试基础库版本。
 
-
-
+可能和微信开发者工具版本有关，请使用最新的开发者工具，以及确认稳定的调试基础库版本。
